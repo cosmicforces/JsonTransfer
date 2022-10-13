@@ -1,6 +1,10 @@
-[{
-    "match": "3EF8",
-        "racer": [
+{
+    "Info": 
+		{
+		"match": "3EF8"
+		},
+    "racer": 
+		[
 	    {"position": 1,  "id": 22, "time": "1:23:72", "points": 113 }, 
 	    {"position": 2,  "id": 28, "time": "1:23:97", "points": 54 }, 
 	    {"position": 3,  "id": 35, "time": "1:24:09", "points": 27 }, 
@@ -11,5 +15,5 @@
 	    {"position": 8,  "id": 9,  "time": "1:30:93", "points": 0 }, 
 	    {"position": 9,  "id": 58, "time": "1:39:01", "points": 0 }, 
 	    {"position": 10, "id": 34, "time": "1:48:74", "points": 0 } 
-	]			
-}]
+		]		
+}
