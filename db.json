@@ -1,4 +1,4 @@
-{
+[{
     "match": "3EF8",
         "racer": [
 	    {"position": 1,  "id": 22, "time": "1:23:72", "points": 113 }, 
@@ -12,4 +12,4 @@
 	    {"position": 9,  "id": 58, "time": "1:39:01", "points": 0 }, 
 	    {"position": 10, "id": 34, "time": "1:48:74", "points": 0 } 
 	]			
-}
+}]
